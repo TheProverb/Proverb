@@ -1,1 +1,1 @@
-https://blackcoinmore.org/ aims to continue on BlackCoin protocol.
+https://theproverb.github.io/ aims to continue on Proverb protocol.
